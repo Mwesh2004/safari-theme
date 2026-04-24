@@ -25,7 +25,7 @@ A dark mode Chrome theme inspired by Safari's elegant design, featuring refined 
 - Clean and minimal look
 
 ## Credits
-Made by [Mwesh2004](https://github.com/Mwesh2004)
+Made by [Beryl M](https://github.com/Mwesh2004)
 
 ## License
 MIT License
