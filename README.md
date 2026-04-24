@@ -16,7 +16,7 @@ A dark mode Chrome theme inspired by Safari's elegant design, featuring refined 
 5. Select the downloaded theme folder
 
 ### Option 2: Chrome Web Store
-*(Coming soon)*
+https://chromewebstore.google.com/detail/safari-theme/ppdgglojpjmjfpijboeankahdibobhgp
 
 ## Features
 - 🌑 Dark mode design
